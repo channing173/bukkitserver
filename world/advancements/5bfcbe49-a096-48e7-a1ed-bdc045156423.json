@@ -191,6 +191,13 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2019-05-09 18:50:18 -0400",
+      "diamond_boots": "2019-05-09 18:50:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-05-06 13:07:05 -0400"
@@ -364,8 +371,10 @@
       "cooked_porkchop": "2019-05-06 13:55:49 -0400",
       "chicken": "2019-05-06 13:24:00 -0400",
       "cooked_mutton": "2019-05-06 13:15:42 -0400",
+      "sweet_berries": "2019-06-01 20:21:09 -0400",
       "cooked_beef": "2019-05-06 13:24:03 -0400",
       "mutton": "2019-05-06 13:22:09 -0400",
+      "bread": "2019-05-08 17:49:03 -0400",
       "cooked_chicken": "2019-05-06 13:46:21 -0400",
       "cooked_salmon": "2019-05-07 21:55:46 -0400"
     },
@@ -596,6 +605,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-05-06 13:21:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-05-09 18:59:04 -0400"
     },
     "done": true
   },
@@ -875,13 +890,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-05-07 23:03:00 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-05-07 23:03:00 -0400"
     },
@@ -1079,6 +1094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-05-09 18:59:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2019-05-06 13:24:20 -0400"
@@ -1124,6 +1145,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2019-05-07 22:05:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-05-08 17:29:32 -0400"
     },
     "done": true
   },
@@ -1220,6 +1247,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-05-06 13:21:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2019-05-08 17:15:56 -0400"
     },
     "done": true
   },
@@ -1646,10 +1679,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-05-06 22:05:32 -0400",
+      "minecraft:mountains": "2019-06-01 20:35:00 -0400",
       "minecraft:taiga": "2019-05-07 11:49:48 -0400",
       "minecraft:birch_forest": "2019-05-06 13:12:55 -0400",
       "minecraft:savanna_plateau": "2019-05-05 09:27:12 -0400",
       "minecraft:beach": "2019-05-05 09:58:48 -0400",
+      "minecraft:dark_forest": "2019-06-01 20:36:43 -0400",
       "minecraft:river": "2019-05-05 09:27:32 -0400",
       "minecraft:lukewarm_ocean": "2019-05-05 09:58:49 -0400",
       "minecraft:birch_forest_hills": "2019-05-06 13:20:50 -0400",
@@ -1791,6 +1826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2019-05-09 18:41:21 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2019-05-06 13:25:15 -0400"
@@ -1881,6 +1922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_at_least_9_diamond": "2019-05-09 18:41:21 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2019-05-06 13:06:01 -0400"
@@ -1965,5 +2012,5 @@
     },
     "done": true
   },
-  "DataVersion": 1952
+  "DataVersion": 1963
 }
