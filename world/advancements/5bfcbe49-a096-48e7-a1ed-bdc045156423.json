@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2019-06-12 19:53:50 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2019-05-07 22:05:48 -0400"
@@ -916,7 +922,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2019-06-12 19:53:04 -0400",
       "minecraft:skeleton": "2019-05-06 14:22:39 -0400",
+      "minecraft:vindicator": "2019-06-12 19:51:54 -0400",
       "minecraft:spider": "2019-05-06 14:09:03 -0400",
       "minecraft:creeper": "2019-05-07 12:20:54 -0400",
       "minecraft:phantom": "2019-05-07 14:03:14 -0400",
@@ -941,6 +949,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2019-05-06 13:23:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-06-12 19:30:41 -0400"
     },
     "done": true
   },
