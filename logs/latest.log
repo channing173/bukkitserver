@@ -1,64 +1,9 @@
-[13:04:29] [User Authenticator #25/INFO]: UUID of player The_Zeru is fcb61a39-604e-49c1-b9c8-9733e5f82171
-[13:04:29] [Server thread/INFO]: The_Zeru[/209.54.89.121:59838] logged in with entity id 522522 at ([world]-182.18985365123717, 63.003016261509046, -679.3331847912733)
-[13:19:02] [Server thread/WARN]: Pegasus moved wrongly!
-[13:19:02] [Server thread/WARN]: Pegasus moved wrongly!
-[13:27:42] [User Authenticator #26/INFO]: UUID of player LordMatth3w is 78bf6751-44de-4df1-8083-b050f52ac213
-[13:27:42] [Server thread/INFO]: LordMatth3w[/134.126.113.104:11143] logged in with entity id 540095 at ([world_nether]-33.58547410395539, 128.0, -54.167587303911446)
-[13:27:53] [Netty Epoll Server IO #7/INFO]: <LordMatth3w> yellow[m
-[13:29:08] [Netty Epoll Server IO #6/INFO]: <The_Zeru> oh heya[m
-[13:30:09] [Netty Epoll Server IO #6/INFO]: <The_Zeru> accidentally killed my skeleton horse :([m
-[13:30:23] [Netty Epoll Server IO #7/INFO]: <LordMatth3w> how did you get one in the first place[m
-[13:30:35] [Netty Epoll Server IO #6/INFO]: <The_Zeru> lighting hit a skeleton and 5 of them appeared[m
-[13:30:50] [Netty Epoll Server IO #6/INFO]: <The_Zeru> they all despawned but 1 by the time i got saddles[m
-[13:30:59] [Netty Epoll Server IO #7/INFO]: <LordMatth3w> damn thats awesome[m
-[13:31:02] [Netty Epoll Server IO #7/INFO]: <LordMatth3w> but sad you killed it[m
-[13:31:12] [Netty Epoll Server IO #6/INFO]: <The_Zeru> bad stats on the horse, no hp no jump no speed[m
-[13:31:17] [Netty Epoll Server IO #7/INFO]: <LordMatth3w> f[m
-[13:31:21] [Netty Epoll Server IO #6/INFO]: <The_Zeru> big f[m
-[13:31:24] [Netty Epoll Server IO #6/INFO]: <The_Zeru> F[m
-[13:33:08] [Netty Epoll Server IO #7/INFO]: <LordMatth3w> I'm gonna afk at the gold farm[m
-[13:33:13] [Netty Epoll Server IO #6/INFO]: <The_Zeru> ok[m
-[13:47:13] [Server thread/INFO]: LordMatth3w fell from a high place
-[13:47:17] [Netty Epoll Server IO #7/INFO]: <LordMatth3w> nah[m
-[13:47:20] [Netty Epoll Server IO #7/INFO]: <LordMatth3w> that aint it chief[m
-[13:47:22] [Netty Epoll Server IO #6/INFO]: <The_Zeru> :([m
-[13:47:26] [Netty Epoll Server IO #7/INFO]: <LordMatth3w> my key got stuck[m
-[13:47:28] [Netty Epoll Server IO #7/INFO]: <LordMatth3w> while at top of farm[m
-[13:47:34] [Netty Epoll Server IO #6/INFO]: <The_Zeru> your key?[m
-[13:47:53] [Netty Epoll Server IO #7/INFO]: <LordMatth3w> forward key[m
-[13:48:00] [Netty Epoll Server IO #6/INFO]: <The_Zeru> whop whop :([m
-[13:48:06] [Netty Epoll Server IO #6/INFO]: <The_Zeru> build yourself a room[m
-[13:48:20] [Netty Epoll Server IO #6/INFO]: <The_Zeru> with gold blocks from their graves[m
-[13:48:55] [Server thread/INFO]: LordMatth3w issued server command: /experience add LordMatth3w 19 levels
-[13:48:55] [Server thread/INFO]: [LordMatth3w: Gave 19 experience levels to LordMatth3w]
-[14:31:21] [Netty Epoll Server IO #6/INFO]: <The_Zeru> bye (*-*)/[m
-[14:31:22] [Server thread/INFO]: The_Zeru issued server command: /quit
-[14:31:23] [Server thread/INFO]: The_Zeru lost connection: Disconnected
-[14:31:23] [Server thread/INFO]: The_Zeru left the game
-[15:32:37] [Server thread/INFO]: LordMatth3w fell from a high place
-[16:34:21] [Server thread/WARN]: LordMatth3w moved wrongly!
-[18:16:35] [Server thread/WARN]: LordMatth3w was kicked for floating too long!
-[18:16:35] [Server thread/INFO]: LordMatth3w lost connection: Flying is not enabled on this server
-[18:16:35] [Server thread/INFO]: LordMatth3w left the game
-[18:16:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@43f593eb[id=<null>,name=LordMatth3w,properties={},legacy=false] (/134.126.113.104:28152) lost connection: Disconnected
-[18:16:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@582af8bc[id=<null>,name=LordMatth3w,properties={},legacy=false] (/134.126.113.104:20088) lost connection: Disconnected
-[18:18:29] [User Authenticator #27/INFO]: UUID of player LordMatth3w is 78bf6751-44de-4df1-8083-b050f52ac213
-[18:18:29] [Server thread/INFO]: LordMatth3w[/134.126.113.104:5214] logged in with entity id 790522 at ([world]358.5, 46.63409999847412, -553.8119157679018)
-[18:45:48] [Server thread/INFO]: LordMatth3w fell from a high place
-[18:54:26] [Server thread/INFO]: LordMatth3w fell from a high place
-[19:19:28] [Server thread/INFO]: LordMatth3w issued server command: /time set day
-[19:19:28] [Server thread/INFO]: [LordMatth3w: Set the time to 1000]
-[19:22:32] [Server thread/INFO]: LordMatth3w has made the advancement [Eye Spy]
-[19:34:52] [Server thread/INFO]: LordMatth3w lost connection: Disconnected
-[19:34:52] [Server thread/INFO]: LordMatth3w left the game
-[21:03:57] [User Authenticator #28/INFO]: UUID of player LordMatth3w is 78bf6751-44de-4df1-8083-b050f52ac213
-[21:03:57] [Server thread/INFO]: LordMatth3w[/134.126.113.104:30080] logged in with entity id 844552 at ([world]1640.2540153407117, 14.0, -887.9765129743733)
-[21:14:51] [Server thread/INFO]: LordMatth3w issued server command: /gamemode creative
-[21:14:51] [Server thread/INFO]: [LordMatth3w: Set own game mode to Creative Mode]
-[21:14:55] [Server thread/INFO]: LordMatth3w issued server command: /gamemode survival
-[21:14:55] [Server thread/INFO]: [LordMatth3w: Set own game mode to Survival Mode]
-[21:21:32] [Server thread/WARN]: LordMatth3w moved wrongly!
-[21:34:09] [Server thread/INFO]: LordMatth3w lost connection: Disconnected
-[21:34:09] [Server thread/INFO]: LordMatth3w left the game
-[21:45:59] [User Authenticator #29/INFO]: UUID of player The_Zeru is fcb61a39-604e-49c1-b9c8-9733e5f82171
-[21:45:59] [Server thread/INFO]: The_Zeru[/209.54.89.121:33970] logged in with entity id 870809 at ([world]-184.19534714307576, 62.9375, -678.7359814283697)
+[00:35:39] [User Authenticator #43/INFO]: UUID of player The_Zeru is fcb61a39-604e-49c1-b9c8-9733e5f82171
+[00:35:39] [Server thread/INFO]: The_Zeru[/209.54.89.121:56970] logged in with entity id 1683787 at ([world]401.21705360515494, 71.0, -528.093206506936)
+[01:21:35] [Server thread/INFO]: The_Zeru issued server command: /afk
+[01:21:40] [Netty Epoll Server IO #2/INFO]: <The_Zeru> Goin afk :)[m
+[11:24:27] [User Authenticator #44/INFO]: UUID of player The_Zeru is fcb61a39-604e-49c1-b9c8-9733e5f82171
+[11:24:42] [User Authenticator #45/INFO]: UUID of player The_Zeru is fcb61a39-604e-49c1-b9c8-9733e5f82171
+[11:24:53] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[11:24:53] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[11:24:54] [Server Watchdog/ERROR]: This crash report has been saved to: /home/channing/github/bukkitserver/./crash-reports/crash-2019-06-22_11.24.54-server.txt
