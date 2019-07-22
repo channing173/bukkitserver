@@ -1,9 +1,51 @@
-[00:35:39] [User Authenticator #43/INFO]: UUID of player The_Zeru is fcb61a39-604e-49c1-b9c8-9733e5f82171
-[00:35:39] [Server thread/INFO]: The_Zeru[/209.54.89.121:56970] logged in with entity id 1683787 at ([world]401.21705360515494, 71.0, -528.093206506936)
-[01:21:35] [Server thread/INFO]: The_Zeru issued server command: /afk
-[01:21:40] [Netty Epoll Server IO #2/INFO]: <The_Zeru> Goin afk :)[m
-[11:24:27] [User Authenticator #44/INFO]: UUID of player The_Zeru is fcb61a39-604e-49c1-b9c8-9733e5f82171
-[11:24:42] [User Authenticator #45/INFO]: UUID of player The_Zeru is fcb61a39-604e-49c1-b9c8-9733e5f82171
-[11:24:53] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[11:24:53] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[11:24:54] [Server Watchdog/ERROR]: This crash report has been saved to: /home/channing/github/bukkitserver/./crash-reports/crash-2019-06-22_11.24.54-server.txt
+[00:37:22] [Server thread/INFO]: LordMatth3w issued server command: /gamemode creative
+[00:37:22] [Server thread/INFO]: [LordMatth3w: Set own game mode to Creative Mode]
+[01:04:27] [Server thread/INFO]: LordMatth3w issued server command: /gamemode survival
+[01:04:27] [Server thread/INFO]: [LordMatth3w: Set own game mode to Survival Mode]
+[07:58:57] [Server thread/INFO]: LordMatth3w lost connection: Disconnected
+[07:58:57] [Server thread/INFO]: LordMatth3w left the game
+[08:22:43] [User Authenticator #2/INFO]: UUID of player LordMatth3w is 78bf6751-44de-4df1-8083-b050f52ac213
+[08:22:43] [Server thread/INFO]: LordMatth3w[/209.54.89.117:52641] logged in with entity id 104056 at ([world]319.41145711206445, 5.0625, -224.7379895554845)
+[08:23:55] [Server thread/INFO]: LordMatth3w issued server command: /gamemode creative
+[08:23:55] [Server thread/INFO]: [LordMatth3w: Set own game mode to Creative Mode]
+[08:24:16] [Server thread/INFO]: LordMatth3w issued server command: /gamemode survival
+[08:24:16] [Server thread/INFO]: [LordMatth3w: Set own game mode to Survival Mode]
+[08:33:06] [Server thread/WARN]: LordMatth3w moved too quickly! -1522.9819627281306,10.233632006042477,745.2813718718464
+[08:33:06] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[08:33:06] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[10:16:59] [Server thread/WARN]: LordMatth3w moved wrongly!
+[10:16:59] [Server thread/WARN]: LordMatth3w moved wrongly!
+[11:20:54] [Server thread/INFO]: LordMatth3w lost connection: Disconnected
+[11:20:54] [Server thread/INFO]: LordMatth3w left the game
+[12:40:57] [User Authenticator #3/INFO]: UUID of player LordMatth3w is 78bf6751-44de-4df1-8083-b050f52ac213
+[12:40:57] [Server thread/INFO]: LordMatth3w[/209.54.89.117:52802] logged in with entity id 135793 at ([world]318.69999998807907, 63.0, -227.30000001192093)
+[12:43:34] [Server thread/INFO]: LordMatth3w lost connection: Disconnected
+[12:43:34] [Server thread/INFO]: LordMatth3w left the game
+[13:29:40] [User Authenticator #4/INFO]: UUID of player LordMatth3w is 78bf6751-44de-4df1-8083-b050f52ac213
+[13:29:40] [Server thread/INFO]: LordMatth3w[/134.126.113.104:27717] logged in with entity id 136908 at ([world]383.69999998807907, 13.0, -575.6999999880791)
+[13:30:48] [Server thread/INFO]: LordMatth3w issued server command: /gamemode creative
+[13:30:48] [Server thread/INFO]: [LordMatth3w: Set own game mode to Creative Mode]
+[13:39:59] [Server thread/INFO]: LordMatth3w issued server command: /time set day
+[13:39:59] [Server thread/INFO]: [LordMatth3w: Set the time to 1000]
+[14:20:05] [Server thread/INFO]: LordMatth3w issued server command: /gamemode survival
+[14:20:05] [Server thread/INFO]: [LordMatth3w: Set own game mode to Survival Mode]
+[14:20:07] [Server thread/INFO]: LordMatth3w lost connection: Disconnected
+[14:20:07] [Server thread/INFO]: LordMatth3w left the game
+[15:31:19] [User Authenticator #5/INFO]: UUID of player LordMatth3w is 78bf6751-44de-4df1-8083-b050f52ac213
+[15:31:19] [Server thread/INFO]: LordMatth3w[/134.126.113.104:13816] logged in with entity id 141598 at ([world]330.86339470852863, 64.0, -603.4232644006386)
+[15:33:19] [Server thread/INFO]: LordMatth3w issued server command: /seed
+[15:44:40] [Server thread/INFO]: LordMatth3w lost connection: Disconnected
+[15:44:40] [Server thread/INFO]: LordMatth3w left the game
+[19:12:32] [Server thread/INFO]: Stopping the server
+[19:12:32] [Server thread/INFO]: Stopping server
+[19:12:32] [Server thread/INFO]: Saving players
+[19:12:32] [Server thread/INFO]: Saving worlds
+[19:12:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:12:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:12:33] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[19:12:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:12:33] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[19:12:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:12:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:12:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:12:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
